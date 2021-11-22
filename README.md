@@ -46,6 +46,6 @@
     <details>
         <summary>GitHub Stats</summary>
         <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=gmtorres95&show_icons=true&theme=cobalt&count_private=true&hide=stars,issues" />
-        <img height="160Em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmtorres95&layout=compact&langs_count=16&theme=tokyonight"/>
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmtorres95&layout=compact" />
     </details>
 </h3>
