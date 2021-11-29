@@ -41,7 +41,7 @@
 ![ESLint](https://img.shields.io/badge/ESLint-7c7ce9?style=flat-square&logo=ESLint)
 ![husky](https://img.shields.io/badge/husky-b0b0d5?style=flat-square)
   
-### GitHub Stats
+## GitHub Stats
 
 [![stats](https://github-readme-stats.vercel.app/api?username=gmtorres95&theme=tokyonight)](https://github.com/gmtorres95/)\
 [![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmtorres95&hide=html&layout=compact&theme=tokyonight)](https://github.com/gmtorres95/)
