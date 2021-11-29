@@ -1,6 +1,5 @@
 <h1 align="center">Hi there :smile: </h1>
 
-
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:al2012.163.torres@gmail.com)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gmtorres95)
 
@@ -10,7 +9,7 @@
 - 👋 Hi There, my name is Gabriel and I'm 26 years old.
 - 🔭 I’m currently being trained at [Driven Education](https://www.driven.com.br/) to be a Fullstack developer, I expect to be graduated in early February of 2022.
 - 👯 I’m looking to collaborate on open source.
-- 💬 Ask me about ... Anything.
+- 💬 Ask me about anything.
 
 ## Technologies that I'm currently improving on :books:
 
@@ -42,10 +41,9 @@
 ![ESLint](https://img.shields.io/badge/ESLint-7c7ce9?style=flat-square&logo=ESLint)
 ![husky](https://img.shields.io/badge/husky-b0b0d5?style=flat-square)
   
-<h3>
-    <details>
-        <summary>GitHub Stats</summary>
-        <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=gmtorres95&show_icons=true&theme=cobalt&count_private=true&hide=stars,issues" />
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmtorres95&layout=compact" />
-    </details>
-</h3>
+### GitHub Stats
+
+[![stats](https://github-readme-stats.vercel.app/api?username=gmtorres95&theme=tokyonight)](https://github.com/gmtorres95/)\
+[![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmtorres95&hide=html&layout=compact&theme=tokyonight)](https://github.com/gmtorres95/)
+
+
