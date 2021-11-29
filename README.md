@@ -1,17 +1,17 @@
-<h1 align="center">Hi there :smile: </h1>
+<h1 align="center">Hi there 😄: </h1>
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:al2012.163.torres@gmail.com)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gmtorres95)
 
 
-## About me :speech_balloon:
+## About me 💬:
 
 - 👋 Hi There, my name is Gabriel and I'm 26 years old.
 - 🔭 I’m currently being trained at [Driven Education](https://www.driven.com.br/) to be a Fullstack developer, I expect to be graduated in early February of 2022.
 - 👯 I’m looking to collaborate on open source.
 - 💬 Ask me about anything.
 
-## Technologies that I'm currently improving on :books:
+## Technologies 📚:
 
 #### Front-end:
 
@@ -32,14 +32,14 @@
 
 #### Tools:
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](http://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![NPM](https://img.shields.io/badge/NPM-FFF?style=flat-square&logo=npm)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GNU Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-FFF?style=flat-square&logo=npm)
 ![ESLint](https://img.shields.io/badge/ESLint-7c7ce9?style=flat-square&logo=ESLint)
 ![husky](https://img.shields.io/badge/husky-b0b0d5?style=flat-square)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
   
 ## GitHub Stats
 
