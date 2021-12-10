@@ -7,7 +7,7 @@
 ## About me 💬:
 
 - 👋 Hi There, my name is Gabriel and I'm 26 years old.
-- 🔭 I’m currently being trained at [Driven Education](https://www.driven.com.br/) to be a Fullstack developer, I expect to be graduated in early February of 2022.
+- 🔭 I’m currently being trained at [Driven Education](https://www.driven.com.br/) to be a Fullstack developer, and I expect to graduate in early February, 2022.
 - 👯 I’m looking to collaborate on open source.
 - 💬 Ask me about anything.
 
