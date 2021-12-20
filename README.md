@@ -45,6 +45,8 @@
   <img src="https://img.shields.io/badge/husky-b0b0d5?style=flat-square" alt="Husky" height="28px">
   <img src="https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white" alt="Trello" height="28px">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Slack" height="28px">
+  <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 </div>
   
 ## GitHub Stats
