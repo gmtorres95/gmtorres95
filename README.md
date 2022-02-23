@@ -1,15 +1,15 @@
-<h1 align="center">Hi there 😄: </h1>
+# Hi there 💬:
+
+- 👋 My name is Gabriel and I'm 27 years old.
+- 🚀 I’m a fullstack developer moved by curiosity.
+- 🔭 I’m looking for new technologies to learn.
+- 🌌 I'm also a physicist.
+- 💬 Ask me about anything.
+
+## Where to find me 📧:
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:al2012.163.torres@gmail.com)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gtorres95/?locale=en_US)
-
-
-## About me 💬:
-
-- 👋 Hi There, my name is Gabriel and I'm 26 years old.
-- 🔭 I’m currently being trained at [Driven Education](https://www.driven.com.br/) to be a Fullstack developer, and I expect to graduate in early February, 2022.
-- 👯 I’m looking to collaborate on open source.
-- 💬 Ask me about anything.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gtorres95/?locale=en_US)
 
 ## Technologies 📚:
 
@@ -53,6 +53,6 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gmtorres95&theme=tokyonight" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmtorres95&hide=html&layout=compact&theme=tokyonight" alt="Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gmtorres95&theme=tokyonight" alt="GitHub Stats" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmtorres95&hide=html&layout=compact&theme=tokyonight" alt="Languages" height="160px" />
 </div>
