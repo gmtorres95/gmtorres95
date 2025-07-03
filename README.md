@@ -1,6 +1,6 @@
 # Hi there 💬:
 
-- 👋 My name is Gabriel and I'm 27 years old.
+- 👋 My name is Gabriel.
 - 🚀 I’m a fullstack developer moved by curiosity.
 - 🔭 I’m looking for new technologies to learn.
 - 🌌 I'm also a physicist.
